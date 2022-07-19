@@ -1,4 +1,4 @@
-### <div align="center">안녕하세요! 프론트엔드로 성장 중인 김민찬입니다.</div>  
+### <div align="center">Hi!</div>  
   
 
 - 🔭 깃헙주소 [Github Profilinator](https://github.com/whara123)  
