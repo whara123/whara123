@@ -1,11 +1,6 @@
-### <div align="center">Hi!</div>  
+### <div align="center">🖐️</div>  
   
-
-- 🔭 깃헙주소 [Github Profilinator](https://github.com/whara123)  
-  
-
-- 🌱 멋쟁이 사자처럼 프론트엔드 스쿨 1기  
-  
+  이제 뛰려고
 
 <br/>  
 
